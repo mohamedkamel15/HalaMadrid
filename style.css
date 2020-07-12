@@ -1,0 +1,42 @@
+body 
+{
+	width:100%;
+	height:100%;
+	background-image:url('https://as01.epimg.net/futbol/imagenes/2020/04/18/primera/1587180357_849398_1587180715_noticia_normal_recorte1.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+
+}
+
+h1
+{
+	text-align:center;
+	font-size:6.5rem;
+	font-family:fantasy;
+	color:orange;
+}
+.button
+{
+	text-align:center;
+
+}
+
+button
+{
+	color:white;
+	background-color:red;
+	padding: 15px;
+	border-radius:12px;
+}
+
+.button:hover
+{
+	size:125%
+}
+
+p
+{
+	text-align:center;
+	font-size:3.1rem;
+	color:orange;
+}
